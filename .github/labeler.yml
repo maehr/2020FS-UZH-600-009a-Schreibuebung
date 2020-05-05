@@ -1,0 +1,16 @@
+src:
+- docs/*
+- .editorconfig
+- .gitattributes
+- .gitignore
+- .gitmodules
+
+docs:
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- LICENSE.md
+- README.md
+- SECURITY.md
+
+github:
+- .github/*
