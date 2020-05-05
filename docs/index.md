@@ -1,146 +1,151 @@
 ---
-title: Reveal.js presentation template
-description: Reveal.js presentation template running with Jekyll hosted on GitHub Pages.
-theme: serif # check out https://revealjs.com/#/themes
-transition: slide # none/fade/slide/convex/concave/zoom
+title: UZH-600-009a-Schreibübung
+description: Materialien der Sitzung 11 (Review) der Veranstaltung UZH-600-009a-Schreibübung von Andrea Schweizer.
+theme: simple ### check out https://revealjs.com/#/themes
+transition: slide ### none/fade/slide/convex/concave/zoom
 ---
-<section data-markdown><textarea data-template>
-### revealjs-presentation-template
 
-- Click on [Use the template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) or [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) this [repo](https://github.com/maehr/revealjs-presentation-template).
-- Activate [GitHub Pages](https://pages.github.com/) in repository settings and set [source](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source) to `master branch /docs folder`.
-- Change `docs/index.md` and push your commit.
-- Enjoy your [presentation](https://maehr.github.io/revealjs-presentation-template/).
+<section data-markdown><textarea data-template>
+### Sitzung 11: Review
+
+**UZH-600-009a-Schreibübung**
+
+[Moritz Mähr](https://moritzmaehr.ch/)
+
+Professur für Technikgeschichte
+
+ETH Zürich
+
+5.5.2020
+</textarea></section>
+<section data-markdown><textarea data-template>
+### Ablauf
+
+- Was ist ein Review?
+- Weshalb machen wir Reviews?
+- Wie mache ich ein Review?
+  - Lesen
+  - Prüfen
+  - Kritisieren
+- Beispiel
+- Fragen
 </textarea></section>
 
 <section data-markdown><textarea data-template>
-## Headings
-``` markdown
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-```
+### Was ist ein Review?
+
+- Das Review ist eine Rückmeldung zu einem Text, verfasst von der für die Publikation des Textes (mit-)verantwortlichen Person (Herausgeberin, Redaktionsleiterin, Lektorin etc.)
 </textarea></section>
 
 <section data-markdown><textarea data-template>
-## Emphasis
+### Weshalb machen wir Reviews?
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
+- Das Review hat das zum Ziel, den Text hinsichtlich ausgewählten Zielen zu verbessern
+  - Publikationsorgane (Medien, Verlage, Zeitschriften etc.) wollen eine möglichst hohe Auflage, Reichweite etc.
+  - Autorinnen wollen Publikum, Honorar, universitäre Abschlüsse etc.
 </textarea></section>
 
 <section data-markdown><textarea data-template>
-## Links
+### Weshalb machen wir Reviews?
 
-[I'm an inline-style link](https://www.google.com). [I'm an inline-style link with title](https://www.google.com "Google's Homepage"). [I'm a reference-style link][Arbitrary case-insensitive reference text]. [I'm a relative reference to a repository file](index.md). [You can use numbers for reference-style link definitions][1] Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. http://www.example.com or <http://www.example.com>.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+- D.h. "Reviewee" und "Reviewer" arbeiten zusammen, um für eine bestimmte Leserschaft nach bestimmten Kriterien einen Text zu verbessern
 </textarea></section>
 
 <section data-markdown><textarea data-template>
-## Images
+### Wie mache ich ein Review?
 
-Here's our logo (hover to see the title text):
-
-Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style:
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+1. Lesen
+2. Prüfen
+3. Kritisieren
 </textarea></section>
 
 <section data-markdown><textarea data-template>
-### Code and syntax highlight
+### Lesen
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
+Als Reviewer lesen wir zielorientiert, genau, wohlwollend, "naiv" und solange, bis wir den Text durchdrungen haben.
 </textarea></section>
 
 <section data-markdown><textarea data-template>
-## Tables I
+### Lesen
 
-Colons can be used to align columns.
+Dabei helfen uns folgende Fragen:
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+- Welche Textsorte hat dieser Text?
+- Was will dieser Text? (provozieren, aufrütteln, informieren etc.)
+- An wen richtet sich dieser Text? (Fachpublikum, breite Öffentlichkeit, Jugendliche etc.)
+- Wie "funktioniert" dieser Text?
+</textarea></section>
+
+<section data-background-image="assets/images/mermaid-diagram-20200428161641.jpeg" data-background-size="contain">
+<h3>Prüfen</h3>
+</section>
+
+<section data-markdown><textarea data-template>
+### Kritisieren
+
+Gute Rückmeldungen sind:
+
+- ehrlich
+- konkret
+- konstruktiv
+- anständig
+- frei von Ironie
+- frei von orthographischen Fehlern
 </textarea></section>
 
 <section data-markdown><textarea data-template>
-## Tables II
+### Beispiel
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+- Wir arbeiten mit dem Text [*Working with batches of PDF files*](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files), den ich für das Journal [The Programming Historian](https://programminghistorian.org/) verfasst habe.
+- Ein Grossteil des Reviews der Editorinnen und der Peer-Reviewer sowie alle Textrevisionen sind [öffentlich](https://github.com/programminghistorian/ph-submissions/issues/258) einsehbar.
 </textarea></section>
-
 <section data-markdown><textarea data-template>
-### Blockquotes
+### Inhalt
 
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
+Ein Auszug meines Proposals für den Artikel
 
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
+- Lesson Abstract: Both retro-digitized and digitally born sources are often exchanged as PDF files. Tools such as Adobe Acrobat Professional are expensive and unsuitable for processing large volumes. Learn how to OCR, crop, split, convert or edit PDF files in batches.
+- Learning Outcomes: You are able to use command line tools like ghostscript, poppler and ocrmypdf.
 </textarea></section>
-
 <section data-markdown><textarea data-template>
-## Inline HTML
+### Inhalt
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+- Adam Crymble (Editor) rät mir, die Fragestellung **einzugrenzen** und zu **konkretisieren**
+- (...) One comment did come back that I wanted to pass along: "it would be very useful if the lesson could walk through a couple of varieties of PDFs (born-digital ones where the text is already embedded; page images with OCR text already embedded; and un-OCRd pdfs) and the tools to extract text from them."
 </textarea></section>
-
 <section data-markdown><textarea data-template>
-## Inline LaTeX
+### Thematische Entwicklung
 
-
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
+- Anandi Knuppel (Editor) vermisst im ersten Entwurf einen **praktischen Bezug**
+- (...) but it may be helpful to explicitly state what you are doing with the case studies. For this to go beyond the software tutorial into methodologies for digital humanists, you have the case study, but I wonder if you could say more about what you can do with it beyond distant reading and topic modelling.
 </textarea></section>
-
 <section data-markdown><textarea data-template>
-### YouTube Videos
+### Informationsdichte und Vorwissen
 
-<iframe width="840" height="480" src="https://www.youtube.com/embed/HUBNt18RFbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Catherine DeRose (Reviewer) hält gewisse Passagen für **zu voraussetzungsreich**
+- For each code snippet (for example, P21), depending on the anticipated audience for this lesson, you might include a sentence that breaks down what the different pieces of the code are doing. If a more advanced shell user is assumed, you could include a note early on (maybe in P4) that encourages users to paste the code into something like <https://explainshell.com/> to see how it's working if they have questions.
+</textarea></section>
+<section data-markdown><textarea data-template>
+### Leserführung
 
-Just copy and paste the embedded code from [YouTube](https://www.youtube.com/).
+- Catherine DeRose (Reviewer) hält mich an, der Leserin immer wieder **Orientierungspunkte** zu geben
+- P22: Could add a sentence to encourage users to look in their working directory and confirm that a new file has indeed been added
+- P46: It would be helpful to have a sentence here that explains what's in those documents - why should someone read them, what do they say about PDFs (...)
+</textarea></section>
+<section data-markdown><textarea data-template>
+### Stil & Grammatik
+
+- Catherine DeRose (Reviewer) hält das Framing gewisser Passagen für **wenig einladend**
+- P1: Might rephrase the sentence that begins: "As a result, humanities scholars are increasingly being forced to..." Forced to makes it sounds like humanists are unwilling and uninterested. (...)
+</textarea></section>
+<section data-markdown><textarea data-template>
+### Formale Kriterien
+
+- Anna-Maria Sichani (Editor) streicht einige **Formattierungsprobleme** in meinem Dokument heraus
+- (...) there are a number of formatting issues related to this, as you can see, and it might worth correcting them before moving to the next phase of peer review, as it is really hard to read (esp the last sections). Cheers!
+</textarea></section>
+<section data-markdown><textarea data-template>
+### Fragen
+
+🧐
 </textarea></section>

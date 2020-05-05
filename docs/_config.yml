@@ -1,5 +1,5 @@
-title: "Academic Reveal Template"
-description: "Write beautiful academic presentations with distraction-free Markdown and Reveal.js."
+title: "2020FS-UZH-600-009a-Schreibuebung"
+description: "Materialien der Sitzung 11 (Review) der Veranstaltung UZH-600-009a-Schreibübung von Andrea Schweizer"
 plugins:
   - jekyll-default-layout
   - jekyll-relative-links
